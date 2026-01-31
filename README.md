@@ -1,2 +1,2 @@
 # projects
-projects
+- https://museumplanning.github.io/projects/
